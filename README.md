@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brajesh
-- 👀 I’m interested in blockchain, ethereum, ERC721 
+- 👀 I’m interested in blockchain, ethereum, ERC721, Polygon
 - 💞️ I’m looking to collaborate on Dapp development
 - 📫 Ping me here - baje003@gmail.com
 
